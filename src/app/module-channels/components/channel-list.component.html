@@ -1,0 +1,20 @@
+<h2>Channels</h2>
+
+<div>
+ <table>
+    <ng-template #channelListHeader>
+        <tr>
+            <th >Number</th>
+            <th>Icon</th>
+            <th>Name </th>
+        </tr>
+    </ng-template>
+    <ng-template #channelListBody let-channel>
+        <tr>
+            <td>{{ channel.number }}</td>
+            <td>{{ channel.icon }}</td>
+            <td>{{ channel.name }}</td>
+        </tr>
+    </ng-template>
+ </table>
+</div>
