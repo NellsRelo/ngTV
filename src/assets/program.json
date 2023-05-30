@@ -1,0 +1,17 @@
+{
+    "title": "title",
+    "key": "metadata key path",
+    "ratingKey": "rating key string",
+    "icon": "Plex url string",
+    "type": "MovieType",
+    "duration": 0,
+    "summary": "",
+    "date": "YYYY-MM-DD",
+    "year": 2023,
+    "plexFile": "Path",
+    "file": "File Path",
+    "showTitle": "",
+    "episode": 0,
+    "season": 0,
+    "serverKey": "Plex Server Name"
+}
