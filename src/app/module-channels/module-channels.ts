@@ -3,6 +3,7 @@ import { ChannelListComponent } from './components/channel-list.component';
 import { RouterModule, Routes } from '@angular/router';
 import { CommonModule } from '@angular/common';
 
+import { MatTableModule } from '@angular/material/table';
 // Module Router
 const routes: Routes = [
     {
@@ -19,6 +20,7 @@ const routes: Routes = [
 @NgModule({
     imports: [
         CommonModule,
+        MatTableModule,
         RouterModule.forChild(routes)
     ],
     declarations: [

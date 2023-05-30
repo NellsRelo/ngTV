@@ -42,6 +42,11 @@ export class ChannelService {
         );
     }
 
+    createDb() {
+       /* const channels = [
+        ];
+        return { channels };*/
+    }
     // Utilities - move these elsewhere or remove when unneeded
     private handleError<T>(operation = 'ooperation', result?: T) {
         return (error: any): Observable<T> => {

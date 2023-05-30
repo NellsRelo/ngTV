@@ -3,4 +3,5 @@ export interface Channel {
     channelNumber: number;
     name: string;
     icon?: string;
+    // programs: Program[];
 }
