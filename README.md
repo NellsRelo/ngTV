@@ -1,6 +1,6 @@
-# ngTV
+# nuTV
 
-ngTV is intended to be a rebuild of Vexorian's [dizque-TV](https://github.com/vexorian/dizquetv), essentially rebuilding it from the ground up in Angular 15, with planned features such as revamped channel scheduling. This is a rebuild, as DizqueTV is it's own thing, and while this project is based off of it, a simple fork would require significant effort. Compatibility similar to DizqueTV's with PseudoTV is not guaranteed, though I will be attempting to keep things similar to easy migration. 
+nuTV is intended to be a rebuild of Vexorian's [dizque-TV](https://github.com/vexorian/dizquetv), essentially rebuilding it from the ground up in Angular 15 (at the moment - we're early enough in that I'm considering React), with planned features such as revamped channel scheduling. This is a rebuild, as DizqueTV is it's own thing, and while this project is based off of it, a simple fork would require significant effort. Compatibility similar to DizqueTV's with PseudoTV is not guaranteed, though I will be attempting to keep things similar to easy migration. 
 
 # Contribution
 - This project will be open source, and PRs are welcome. 
