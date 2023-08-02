@@ -6,7 +6,11 @@ nuTV is intended to be a rebuild of Vexorian's [dizque-TV](https://github.com/ve
 - This project will be open source, and PRs are welcome. 
 - Adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct/).
 
+# Disclaimer
+
+This project utilizes Syncfusion components. To contribute, fork, or obtain the code in any other fashion, it is required that you independently obtain a Syncfusion license, be it a Community, Commercial, or other license.
+
 # License
 - DizqueTV's improvements to the original PseudoTV-Plex project were released under [zlib license (c) 2020 Victor Hugo Soliz Kuncar](https://github.com/vexorian/dizquetv/blob/main/LICENSE)
 - The original PseudoTV-Plex project was released under the [MIT license (c) 2020 Dan Ferguson](https://github.com/DEFENDORe/pseudotv/blob/665e71e24ee5e93d9c9c90545addb53fdc235ff6/LICENSE)
-- This project will utilize the same zlib license as DizqueTV
+- This project will utilize the MIT license.
